@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+@font-face {
+  font-family: Hand;
+  src: url(the_hand/The\ Hand.ttf);
+}
+
+body {
+  background: url(imgs/backgrounds/Capital.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 5px #ffffff;
+  }
+
+.navbar {
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+}
+
+.word{
+  font-family: Hand;
+}
+
+.inf{
+  margin-top: 15%;
+  margin-right: 10%;
+}
+
+.infl{
+  margin-top: 15%;
+  margin-left: 10%;
+}
+
+.img{
+height: 80%;
+width:60%
+}
+
+.imgs{
+  height: 100%;
+  width:80%
+    }
