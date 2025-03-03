@@ -18,7 +18,33 @@ html {
   color: rgb(0, 0, 0);
   text-shadow: 2px 2px 5px #ffffff;
   }
-  
-  .word{
-    font-family: Hand;
-  }
+
+.navbar {
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+}
+
+.word{
+  font-family: Hand;
+}
+
+.inf{
+  margin-top: 15%;
+  margin-right: 10%;
+}
+
+.infl{
+  margin-top: 15%;
+  margin-left: 10%;
+}
+
+.img{
+height: 80%;
+width:60%
+}
+
+.imgs{
+  height: 100%;
+  width:80%
+    }
